@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "chair_a",
+      "name": "Chair A",
+      "url": "https://raw.githubusercontent.com/ArtursNeiburgsKOPAA/Faili/main/lode_1.gltf"
+    },
+    {
+      "id": "chair_b",
+      "name": "Chair B",
+      "url": "https://raw.githubusercontent.com/ArtursNeiburgsKOPAA/Faili/main/kubs.gltf"
+    }
+  ]
+}
